@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FourSeasons</string>
+    <string name="about">about</string>
+    <string name="rules">rules</string>
+    <string name="rules_descr">The goal of the game is to collect all the cards by suit in ascending order in four corner decks,
+        starting with an ace.
+ You can play five intermediate decks from the dispensing card deck. If the goal deck is empty
+        then start play deck from any card. If deck is not empty then you can play cards in descending order regardless of the suit.
+        Cards can be played between all decks including the corner ones according to the rules described above
+        except for the dispensing deck.</string>
+    <string name="empty_decks_at_start_easier">Empty decks at start (easier)</string>
+    <string name="clear_stats">Clear stats</string>
+</resources>
